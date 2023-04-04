@@ -1,0 +1,10 @@
+{:uriI"áfile://app/assets/builds/application.js.LICENSE.txt?type=text/plain&id=3c621a02ddbc8deeb7a42444eb865285e50e373340d62f653511f253ed7580e2:ET:load_pathI"app/assets/builds;T:filenameI"1app/assets/builds/application.js.LICENSE.txt;T:	nameI"application.js.LICENSE;T:logical_pathI"application.js.LICENSE.txt;T:content_typeI"text/plain;T:sourceI"Ì/*!
+  * Bootstrap v5.2.3 (https://getbootstrap.com/)
+  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+;T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"?file-digest://app/assets/builds/application.js.LICENSE.txt;TTF:charsetI"
+utf-8;F:digest"%(^π”}ºÏ$÷ØˆJ¬K3mõ·	°:ÒÄ:lengthiÌ:environment_versionI"1.0;T:dependencies_digest"%ª!6°"êÂ%°≤8·¯˝ºg¨≤<ë°—o”Â1ÑX1˙:idI"E3c621a02ddbc8deeb7a42444eb865285e50e373340d62f653511f253ed7580e2;F
